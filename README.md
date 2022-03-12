@@ -69,3 +69,6 @@ _/oo OOOOO oo`  ooo   ooo  'o!o!o                  o!o!o` 'o!o         o!o`
                                                                                                                         
 ```
 Love the Nature Of Code Series!!! :) Beatrix
+
+
+<img src="https://github.com/NOPR9D/CodingTrain/blob/main/CodingTrain.svg" width="500px" height="500px">
